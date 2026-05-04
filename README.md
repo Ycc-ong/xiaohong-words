@@ -2,7 +2,7 @@
 
 一个极简、高效的英文单词记忆工具，基于认知科学原理设计。
 
-[在线体验](https://ycc-ong.github.io/xiaohong-words)
+[在线体验](https://ycc-ong.github.io/xiaohong-words/)
 
 ## ✨ 功能
 
